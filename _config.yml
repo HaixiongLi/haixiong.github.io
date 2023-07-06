@@ -9,7 +9,7 @@ url:                   https://haixiongli.github.io
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               '/hydejack-starter-kit'
+# baseurl:               '/hydejack-starter-kit'
 
 
 # General settings
@@ -25,7 +25,7 @@ title:                 HaixiongLi
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  这是一个私人学术网站
+  123
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
