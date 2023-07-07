@@ -1,12 +1,13 @@
 basics:
-  name: "Haixiong Li"
+  name: "DaeIn Lee"
   label: "Software Engineer"
-  picture: /assets/img/seattle.png
-  email: "daein0lee@gmail.com"
-  phone: "(+82) 10-6273-3127"
-  website: "https://lazyren.github.io/"
+  picture: assets/lhx.jpeg
+  email: "lhx@lhxiong.com"
+  phone: "(+82) 18681890201"
+  website: "https://lhxiong.com"
+  website: "https://openrpa.cloud"
   summary: >
-    Hello, I'm DaeIn Lee from SAP Labs Korea.<br>
+    Hello, I'm Haixiong Li from China.<br>
     I like to solve brain teasing problems in the field of CSE.<br>
     I'd like to describe myself as a fast learner;<br>
     I am confident that I can satisfy expectations of coworkers.
@@ -18,10 +19,10 @@ basics:
   #   region: "California"
   profiles:
     - network: "Github"
-      username: "LazyRen"
-      url: "https://github.com/LazyRen"
+      username: "haixiongli"
+      url: "https://github.com/haixiongli"
     - network: "LinkedIn"
-      username: "DaeIn Lee"
+      username: "Haixiong Li"
       url: "https://www.linkedin.com/in/daein-lee-3b6ba9139/"
 work:
   - company: "SAP Labs Korea"
@@ -108,7 +109,7 @@ projects:
     startDate: "2018-08-01"
     endDate: "2019-10-31"
     summary: "Evaluating cache / multi thread Performance of <a href='https://github.com/wangziqi2013/BwTree'>Open Bw-Tree</a> to find bottleneck and improvement performance."
-    url: "https://lazyren.github.io/tag-bwtree/"
+    url: "https://haixiongli.github.io/tag-bwtree/"
     highlights:
       - "Implementing update function based on the <a href='https://hyeontaek.com/papers/openbwtree-sigmod2018.pdf'>page</a>."
       - "Make update function atomic & reduce call of traverse function."
@@ -117,7 +118,7 @@ projects:
     startDate: "2019-10-01"
     endDate: "2019-10-31"
     summary: "Concurrent Programming Course"
-    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
+    url: "https://github.com/haixiongli/2019-Concurrent-Programming/tree/master/project3"
     highlights:
       - "Implementing Wait-free Snapshot based on the textbook 'The Art of Multiprocessor Programming'"
       - "Concurrent update & scan function implemented"
@@ -126,7 +127,7 @@ projects:
     startDate: "2018-03-02"
     endDate: "2018-06-22"
     summary: "Operating System Course"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
+    url: "https://github.com/haixiongli/2018-Operating-Systems"
     highlights:
       - "Implement MLFQ & Stride scheduling instead of round robin scheduling."
       - "Implement Light Weight Process that can be used with most of POSIX-thread functions."
@@ -200,7 +201,7 @@ interests:
   - name: "Gaming"
     keywords:
       - "Board Games"
-      - "<a href='https://steamcommunity.com/id/lazyren'>Steam</a>"
+      - "<a href='https://steamcommunity.com/id/haixiongli'>Steam</a>"
       - "<a href='http://www.companyofheroes.com/leaderboards#profile/steam/76561198031392006/standings'>Company of Heroes 2</a>"
 # references:
 #   - name: "Erlich Bachman"
