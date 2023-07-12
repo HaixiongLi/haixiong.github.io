@@ -33,6 +33,14 @@ _这是我的座右铭._
 > “我们致力于通过人工智能技术的创新与应用，为人们提供更加智能、个性化、互动性强的生活、工作体验。”
 
 
+
+***
+
+Blog created by DaeIn Lee on July 19. 2018 in Vancouver,<br>
+based on the jekyll theme [Hydejack].
+
+***
+
 <!--author-->
 
 <!-- Links -->
