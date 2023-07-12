@@ -1,12 +1,11 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/lhx.jpeg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  个人简介
 hide_description: true
 redirect_from:
-  - /download/
+
 ---
 
 # About
@@ -33,7 +32,7 @@ redirect_from:
 
 
 [西安言古科技]:https://www.yygu.cn
-[西府]:https://www.xifuzongshe.com
+[西府]: http://xifuzongshe.com/
 
 [portfolio]: https://hydejack.com/examples/
 [resume]: https://hydejack.com/resume/
