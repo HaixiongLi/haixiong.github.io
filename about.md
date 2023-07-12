@@ -9,15 +9,11 @@ order: 1
 
 ## Hello, World!
 
-嗨，我是李海雄  **Haixiong Li**.<br>
-
-我目前正在西安电子科技大学读博士，我的博士研究方向为人工智能、语义通信、大模型等领域。<br>
-
-我热爱计算机、机器人、人工智能编程等领域，喜欢解决实际意义的科研和工程问题。
-同时我目前是一个创业者，在经营一家人工智能公司（[西安言古科技]），专注于为制造者带去最先进的人工智能技术，协助他们提升效率并节约成本。
-
-同时我目前在和朋友做一本文学类杂志（[西府]），定位严肃文学，这源于初中时的一份梦想，希望能在浮躁的社会当下，慢慢品读诗书，细细感受生活。
-
+Hi, I'm **DaeIn Lee**, *a.k.a.* **Lazy Ren**.<br>
+I'm currently working at **[SAP Labs Korea]**, and previsouly was CSE student of **[Hanyang University]**.<br>
+I like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).<br>
+And I'm also a [heavy gamer]!<br>
+Pleaseh check my [resume] if you wish to know more about me.
 
 ***
 
@@ -25,14 +21,38 @@ order: 1
 
 ***
 
-## 技术赋能生活
+## Work Hard to be Lazy
 
-_这是我的座右铭._
+_My motto to live by._
 {:.lead}
 
-> “我们致力于通过人工智能技术的创新与应用，为人们提供更加智能、个性化、互动性强的生活、工作体验。”
+> “Working hard to be lazy basically means investing the extra effort (working hard) at first so that it will pay off in the long run (be lazy).”
 
+## Re-evaluate your work processes
 
+The lazy man will try to accomplish 2 hours worth of work in 1 hour’s time but sometimes at the expense of the work’s quality.<br>
+Think of it as **efficiency = quality/time** taken (referencing speed = distance/over).<br>
+If the time taken is reduced, either the job’s quality has to be lowered or the efficiency must be increased. Efficiency really relates to the work process.<br>
+So in order to keep the quality the same and reduce the time taken, the work process must be changed.
+
+## Don’t repeat yourself
+
+After evaluating what you do, you may have some ideas of what you want to improve or modify.<br>
+Break it down to its core.
+
+## Try a new process
+
+Be open to completely changing the way you work.<br>
+You can’t expect to become more productive unless you pay a price at first.
+
+## Refine yourself
+
+By refining yourself I mean going through this work hard to be lazy process in iterations.<br>
+Try a new process, if that doesn’t help as much as you hoped, try another process.<br>
+The worst thing that could happen is that you don’t find any improvement in your work process and go back to your original process and just work hard.<br>
+Did you lose anything?
+
+[original post]
 
 ***
 
@@ -44,8 +64,6 @@ based on the jekyll theme [Hydejack].
 <!--author-->
 
 <!-- Links -->
-[西安言古科技]:https://www.yygu.cn
-[西府]:https://www.xifuzongshe.com
 [SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
 [Hanyang University]: https://www.hanyang.ac.kr/
 [heavy gamer]: https://steamcommunity.com/id/lazyren
